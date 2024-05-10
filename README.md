@@ -1,5 +1,5 @@
 
-- 👋 **Greetings!** `I'm @NikMehraDev`, `a young enthusiast` diving into the realms of coding and machine learning.
+- 👋 **Greetings!** `I'm Nikhilesh Mehra`, `a young enthusiast` diving into the realms of coding and machine learning.
 - 🌱 Currently immersing myself in the `Python universe`, zealously exploring its depths.
 - 😄 `Favor`: I want to learn `Rust` and C/C++, so if you're **willing to contribute knowledge** to me, I would be truly honored.
 - 📫 Reach out to me via **my Insta handle** `@goldy_ace_29` for exciting discussions and collaborations.
