@@ -1,5 +1,4 @@
-
---- 
+###
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -7,15 +6,25 @@
   </a>
 </div>
 
-
-### I'm **`Nikhilesh Mehra`**, a young enthusiast diving into the realms of coding and machine learning.
-
-
-- 🌱 Currently immersing myself in the **Python universe**, zealously exploring its depths.
-- 😄 **Favor**: I want to learn **Rust** and **C/C++**, so if you're willing to share your knowledge, I would be truly honored.
-- 📫 Reach out to me via my **Insta handle**: [`@its_nikhilesh_m`](https://www.instagram.com/its_nikhilesh_m) for exciting discussions and collaborations.
-- ⚡ **Fun fact**: Despite being just **16 years old**, I'm delving into coding purely for the joy of it, not necessarily aiming for a serious career path.
-- 🔍 **Exploration**: Continuously exploring new programming languages and emerging trends, I dedicate a significant amount of time and energy to reading blogs, watching tutorials, and staying updated on the latest developments in the field of AI.
-- 🚀 **Future Goals**: My aspiration is to master a wide array of programming languages, including **Rust**, **Python**, **C**, **JavaScript**, and more, as I believe each language offers unique insights and opportunities for growth.
-- 
 ---
+
+### I'm **`Nikhilesh Mehra`**, a young enthusiast exploring the realms of Artificial Intelligence, Machine Learning, and Programming.
+
+- 🌟 **Passion for AI/ML**: My journey is driven by an insatiable curiosity to uncover the intricacies of **Artificial Intelligence** and **Machine Learning**. I thrive on building models, exploring neural networks, and diving into cutting-edge concepts like **Reinforcement Learning** and **Backpropagation**.  
+
+- 🌱 **Current Focus**:  
+  - Immersed in the **Python universe**, I'm actively working on projects like a **Reinforcement Learning Snake Game** to understand how agents learn and interact in dynamic environments.  
+  - Programming **Chess Bots** with various algorithms, such as **Minimax**, **Alpha-Beta Pruning**, and exploring ML-based approaches for creating smarter, adaptive gameplay strategies.  
+
+- 🚀 **Future Goals**:  
+  - Mastering languages like **Rust**, **Go**, and **C/C++** to deepen my understanding of system-level programming and performance optimization.  
+  - Exploring advanced AI topics such as **Neural Networks**, **Natural Language Processing (NLP)**, and **Generative AI**.  
+  - Building innovative projects that combine programming and AI to solve real-world problems.  
+
+- 📫 **Let's Connect**: Collaborations excite me! Reach out via my **Instagram**: [`@its_nikhilesh_m`](https://www.instagram.com/its_nikhilesh_m) to share insights, ideas, or discuss potential projects.  
+
+- 🔍 **Continuous Learning**: I dedicate myself to staying updated on emerging trends, studying diverse programming paradigms, and honing my skills by experimenting with practical applications of AI and ML.  
+
+- ⚡ **Fun Fact**: At **16 years old**, I believe that learning should be driven by passion and curiosity, not just career goals. Coding and AI are my playgrounds, where every new challenge is an opportunity for growth.  
+
+--- 
